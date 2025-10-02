@@ -1089,6 +1089,7 @@
             <when state="5" output="Á"/>
             <when state="6" output="Ä"/>
             <when state="9" output="À"/>
+            <when state="15" output="Ä"/>
         </action>
         <action id="a17">
             <when state="none" output="E"/>
@@ -1098,6 +1099,7 @@
             <when state="5" output="É"/>
             <when state="6" output="Ë"/>
             <when state="9" output="È"/>
+            <when state="15" output="Ë"/>
         </action>
         <action id="a18">
             <when state="none" output="I"/>
@@ -1107,6 +1109,7 @@
             <when state="5" output="Í"/>
             <when state="6" output="Ï"/>
             <when state="9" output="Ì"/>
+            <when state="15" output="Ï"/>
         </action>
         <action id="a19">
             <when state="none" output="N"/>
@@ -1121,6 +1124,7 @@
             <when state="5" output="Ó"/>
             <when state="6" output="Ö"/>
             <when state="9" output="Ò"/>
+            <when state="15" output="Ö"/>
         </action>
         <action id="a20">
             <when state="none" next="9"/>
@@ -1185,6 +1189,7 @@
             <when state="5" output="Ú"/>
             <when state="6" output="Ü"/>
             <when state="9" output="Ù"/>
+            <when state="15" output="Ü"/>
         </action>
         <action id="a30">
             <when state="none" output="r"/>
@@ -1242,6 +1247,7 @@
         <action id="a4">
             <when state="none" output="Y"/>
             <when state="6" output="Ÿ"/>
+            <when state="15" output="Ÿ"/>
         </action>
         <action id="a40">
             <when state="none" next="14"/>
