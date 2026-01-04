@@ -1,6 +1,6 @@
 <?xml version="1.1" encoding="UTF-8"?>
 <!DOCTYPE keyboard SYSTEM "file://localhost/System/Library/DTDs/KeyboardLayout.dtd">
-<!--Last edited by Ukelele version 452 on 2026-01-04 at 13:45 (GMT-3)-->
+<!--Last edited by Ukelele version 452 on 2026-01-04 at 13:51 (GMT-3)-->
 <keyboard group="126" id="-17662" name="English (intl. with Option dead keys)" maxout="2">
     <layouts>
         <layout first="0" last="17" mapSet="16c" modifiers="f4"/>
@@ -382,9 +382,9 @@
             <key code="0" output="á"/>
             <key code="1" output="ß"/>
             <key code="2" output="ð"/>
-            <key code="3" output=""/>
+            <key code="3" output="º"/>
             <key code="4" output=""/>
-            <key code="5" output=""/>
+            <key code="5" output="ª"/>
             <key code="6" output="æ"/>
             <key code="7" output="œ"/>
             <key code="8" output="©"/>
