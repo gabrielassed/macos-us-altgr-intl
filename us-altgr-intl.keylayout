@@ -1,7 +1,7 @@
 <?xml version="1.1" encoding="UTF-8"?>
 <!DOCTYPE keyboard SYSTEM "file://localhost/System/Library/DTDs/KeyboardLayout.dtd">
-<!--Last edited by Ukelele version 396 on 2025-02-20 at 19:24 (CET)-->
-<keyboard group="126" id="-11214" name="us-altgr-intl" maxout="2">
+<!--Last edited by Ukelele version 452 on 2026-01-04 at 13:45 (GMT-3)-->
+<keyboard group="126" id="-17662" name="English (intl. with Option dead keys)" maxout="2">
     <layouts>
         <layout first="0" last="17" mapSet="16c" modifiers="f4"/>
         <layout first="18" last="18" mapSet="984" modifiers="f4"/>
@@ -1084,32 +1084,32 @@
             <when state="none" output="A"/>
             <when state="1" output="Â"/>
             <when state="11" output="Ã"/>
+            <when state="15" output="Ä"/>
             <when state="17" output="Á"/>
             <when state="20" output="À"/>
             <when state="5" output="Á"/>
             <when state="6" output="Ä"/>
             <when state="9" output="À"/>
-            <when state="15" output="Ä"/>
         </action>
         <action id="a17">
             <when state="none" output="E"/>
             <when state="1" output="Ê"/>
+            <when state="15" output="Ë"/>
             <when state="17" output="É"/>
             <when state="20" output="È"/>
             <when state="5" output="É"/>
             <when state="6" output="Ë"/>
             <when state="9" output="È"/>
-            <when state="15" output="Ë"/>
         </action>
         <action id="a18">
             <when state="none" output="I"/>
             <when state="1" output="Î"/>
+            <when state="15" output="Ï"/>
             <when state="17" output="Í"/>
             <when state="20" output="Ì"/>
             <when state="5" output="Í"/>
             <when state="6" output="Ï"/>
             <when state="9" output="Ì"/>
-            <when state="15" output="Ï"/>
         </action>
         <action id="a19">
             <when state="none" output="N"/>
@@ -1119,12 +1119,12 @@
             <when state="none" output="O"/>
             <when state="1" output="Ô"/>
             <when state="11" output="Õ"/>
+            <when state="15" output="Ö"/>
             <when state="17" output="Ó"/>
             <when state="20" output="Ò"/>
             <when state="5" output="Ó"/>
             <when state="6" output="Ö"/>
             <when state="9" output="Ò"/>
-            <when state="15" output="Ö"/>
         </action>
         <action id="a20">
             <when state="none" next="9"/>
@@ -1184,12 +1184,12 @@
         <action id="a3">
             <when state="none" output="U"/>
             <when state="1" output="Û"/>
+            <when state="15" output="Ü"/>
             <when state="17" output="Ú"/>
             <when state="20" output="Ù"/>
             <when state="5" output="Ú"/>
             <when state="6" output="Ü"/>
             <when state="9" output="Ù"/>
-            <when state="15" output="Ü"/>
         </action>
         <action id="a30">
             <when state="none" output="r"/>
@@ -1246,8 +1246,8 @@
         </action>
         <action id="a4">
             <when state="none" output="Y"/>
-            <when state="6" output="Ÿ"/>
             <when state="15" output="Ÿ"/>
+            <when state="6" output="Ÿ"/>
         </action>
         <action id="a40">
             <when state="none" next="14"/>
