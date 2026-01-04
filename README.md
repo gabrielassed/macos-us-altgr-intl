@@ -12,7 +12,12 @@ sudo cp us-altgr-intl.keylayout /Library/Keyboard\ Layouts
 
 You'll need to reboot for the new layout to appear in System Settings.
 
-Tested to be working on macOS Sonoma 14.3.1.
+Tested to be working on macOS Tahoe 26.2.
+
+## Modifications from this fork
+
+- Update layout name to "English (intl. with Option dead keys)" (just to look nice in the layout selector);
+- Added masculine and feminine ordinal indicator (by pressing Option + F or G, respectively).
 
 ## Acknowledgments
 
