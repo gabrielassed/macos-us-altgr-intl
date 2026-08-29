@@ -17,7 +17,12 @@ Tested to be working on macOS Tahoe 26.2.
 ## Modifications from this fork
 
 - Update layout name to "English (intl. with Option dead keys)" (just to look nice in the layout selector);
-- Added masculine and feminine ordinal indicator (by pressing Option + F or G, respectively).
+- Added masculine and feminine ordinal indicators (by pressing Option + F or G, respectively);
+- Completed uppercase vowel composition for acute, grave, tilde, circumflex,
+  and diaeresis dead keys;
+- Made the Option layer Caps Lock aware while preserving its dead keys and
+  symbols;
+- Added symmetric uppercase cedilla composition.
 
 ## Acknowledgments
 
